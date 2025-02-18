@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey there, I'm Lalith Mohan! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7C724&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Python+%7C+SQL+%7C+TypeScript;Continuous+Learner+%F0%9F%93%9A+Problem+Solver+%F0%9F%A7%A0; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7C724&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Python+%7C+SQL+%7C+TypeScript;Continuous+Learner+%F0%9F%93%9A+Problem+Solver+%F0%9F%A7%A0; " />
 </p>
 
 ---
