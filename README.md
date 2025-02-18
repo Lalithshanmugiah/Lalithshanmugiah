@@ -13,7 +13,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="![Lalithshanmugiah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithshanmugiah&theme=dark&show_icons=true&hide_border=false&layout=compact)" alt="Lalith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithshanmugiah&theme=dark&show_icons=true&hide_border=false&layout=compact)" alt="Lalith's GitHub Stats" />
 </p>
 
 <h2>🌐 Connect with Me</h2>
