@@ -10,4 +10,4 @@ Hello! I'm a beginner in Python programming. Here you'll find my journey as I le
 ## Contact
 
 - **Email:** [lalith.shanmugiah21@gmail.com]
-- **LinkedIn:** [[text](https://www.linkedin.com/in/lalithmohan-shanmugiah-18b365220/)]
+- **LinkedIn:** [[Linkedin](https://www.linkedin.com/in/lalithmohan-shanmugiah-18b365220/)]
