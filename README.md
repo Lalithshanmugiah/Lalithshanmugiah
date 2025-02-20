@@ -4,10 +4,10 @@ Hello! I'm a beginner in Python programming. Here you'll find my journey as I le
 
 ## About Me
 
-- **Name:** [Lalithshanmugiah]
+- **Name:** Lalithshanmugiah
 - **Interests:** Python, Data Science, Machine Learning
 
 ## Contact
 
-- **Email:** [lalith.shanmugiah21@gmail.com]
-- **LinkedIn:** [[Linkedin](https://www.linkedin.com/in/lalithmohan-shanmugiah-18b365220/)]
+- **Email:** lalith.shanmugiah21@gmail.com
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/lalithmohan-shanmugiah-18b365220/)
