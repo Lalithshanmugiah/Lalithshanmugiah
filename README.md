@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile
 
-Hello! I'm a beginner in Python programming. Here you'll find my journey as I learn and grow my skills.
+Hello! I'm a beginner in Javascript programming. Here you'll find my journey as I learn and grow my skills.
 
 ## About Me
 
 - **Name:** Lalithshanmugiah
-- **Interests:** Python, Data Science, Machine Learning
+- **Interests:** Frontend Development, Python, Data Science, Machine Learning
 
 ## Contact
 
